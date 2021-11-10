@@ -16,5 +16,6 @@ public class HelloMaven {
         HelloMaven helloMaven = new HelloMaven();
         int res = helloMaven.add(10, 20);
         System.out.println("10+20="+res);
+        System.out.println("10+20="+res);
     }
 }
