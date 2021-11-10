@@ -18,5 +18,6 @@ public class HelloMaven {
         System.out.println("10+20="+res);
         System.out.println("10+20=124"+res);
         System.out.println("master test"+res);
+        System.out.println("javase_maven test"+res);
     }
 }
