@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @Description:
  * @Author: TianXing.Xue
  * @Date: 2021/10/1 14:32
+ * 这是第一次尝试用controller层来实现页面的跳转
  **/
 
 @Controller
